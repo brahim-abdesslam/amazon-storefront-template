@@ -1,3 +1,5 @@
 *.pyc
 .tags*
 amzstorefront/amzstorefront.db
+
+.DS_Store
